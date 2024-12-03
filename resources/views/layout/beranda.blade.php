@@ -15,6 +15,8 @@
     @include('components.header')
     {{-- Main --}}
     @include('components.main')
+    {{-- footer --}}
+    @include('components.footer')
 
     
     

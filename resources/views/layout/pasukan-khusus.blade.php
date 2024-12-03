@@ -15,7 +15,7 @@
     <!-- Judul dan Pengertian -->
     <section class=" max-md:hidden">
     <div class=" flex justify-center items-center flex flex-col pt-[5rem]">
-        <h1 style=" text-shadow: 2px 2px 4px" class=" text-3xl font-bold">
+        <h1  class=" text-3xl font-bold">
             Pasukan Khusus Tni AL
         </h1>
         <p class=" text-[1rem] w-[45rem] text-justify pt-[2rem]">
