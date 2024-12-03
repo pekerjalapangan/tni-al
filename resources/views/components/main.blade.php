@@ -131,7 +131,7 @@ Posisi Panglima TNI AL dipegang oleh seorang <b>KASAL ( Kepala Staf Angkatan Lau
 
 {{-- Konten3 Desktop --}}
 
-<!-- quoetes-->
+<!-- quoete-->
 <div class=" bg-black w-full h-[25rem] mt-[10.5rem] flex justify-center items-center">
   <div class=" flex items-center justify-center px-5 py-5">
 <div class="w-full mx-auto rounded-lg bg-white shadow-lg px-5 pt-5 pb-10 text-gray-800" style="max-width: 500px">
