@@ -131,7 +131,28 @@ Posisi Panglima TNI AL dipegang oleh seorang <b>KASAL ( Kepala Staf Angkatan Lau
 
 {{-- Konten3 Desktop --}}
 
+<!-- quoetes-->
+<div class=" bg-black w-full h-[25rem] mt-[10.5rem] flex justify-center items-center">
+  <div class=" flex items-center justify-center px-5 py-5">
+<div class="w-full mx-auto rounded-lg bg-white shadow-lg px-5 pt-5 pb-10 text-gray-800" style="max-width: 500px">
+  <div class="w-full pt-1 pb-5">
+      <div class="overflow-hidden rounded-full w-20 h-20 -mt-16 mx-auto shadow-lg">
+          <img src="{{asset('soedirman.jpg')}}" alt="">
+      </div>
+  </div>
+  <div class="w-full mb-10">
+      <div class="text-3xl text-indigo-500 text-left leading-tight h-3">“</div>
+      <p class="text-[1.2rem] text-black font-medium text-center px-5">“Kadang kita terlalu sibuk memikirkan kesulitan-kesulitan sehingga kita tidak punya waktu untuk mensyukuri rahmat Tuhan.”</p>
+      <div class="text-3xl text-indigo-500 text-right leading-tight h-3 -mt-3">”</div>
+  </div>
+  <div class="w-full">
+      <p class="text-md text-indigo-500 font-bold text-center">Jendral Soedirman</p>
+      
+  </div>
+</div>
+</div>
 
+</div>
 
 
 
