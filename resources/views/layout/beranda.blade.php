@@ -6,6 +6,7 @@
   @vite('resources/css/app.css')
   <!-- Font Awesome CDN -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<link rel="icon" class="w-[10rem]" href="{{ asset('logo-al.png') }}" type="image/x-icn">
 <title>tni-al.mil</title>
 </head>
 <body class="">

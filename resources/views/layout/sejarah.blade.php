@@ -7,6 +7,7 @@
     <title>Sejarah TNI Angkatan Laut</title>
       <!-- Font Awesome CDN -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<link rel="icon" class="w-[10rem]" href="{{ asset('logo-al.png') }}" type="image/x-icn">
     @vite('resources/css/app.css')
 </head>
 <body>
@@ -71,5 +72,7 @@
         <iframe class=" w-[20rem] h-[15rem]" src="https://www.youtube.com/embed/gcF1CnxgNn8?si=tNqxk03PhoqKGVYx">
         </iframe>
         </div>
+        {{-- footer --}}
+    @include('components.footer')
 </body>
 </html>

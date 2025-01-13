@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="icon" class="w-[10rem]" href="{{ asset('logo-al.png') }}" type="image/x-icn">
     @vite('resources/css/app.css')
 </head>
 <body>
@@ -255,5 +256,7 @@
             Pangkat paling rendah di Tamtama, bertugas sebagai pelaksana tugas operasional dan siap mengikuti instruksi dari atasan.
         </p>
     </div>
+    {{-- footer --}}
+    @include('components.footer')
 </body>
 </html>
